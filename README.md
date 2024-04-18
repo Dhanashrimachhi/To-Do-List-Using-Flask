@@ -42,7 +42,7 @@ $ python app.py
 ⚡️ Dashboard, ToDo Task.\
 ⚡️ View ToDo.\
 ⚡️ ToDo History.\
-⚡️ Logout.\
+⚡️ Logout.
 
 ---
 

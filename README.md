@@ -6,9 +6,17 @@
 #### Register Page
 <img src="Webpage Image/Register.png" width="900">
 
-#### All Songs
+#### Dashboard Page
 <img src="Webpage Image/Dashboard.png" width="900">
 
+#### Profile Edit Page
+<img src="Webpage Image/Profile Edit.png" width="900">
+
+#### History Page
+<img src="Webpage Image/History.png" width="900">
+
+#### Logout Page
+<img src="Webpage Image/Logout.png" width="900">
 ----
 
 ## Installation 📦

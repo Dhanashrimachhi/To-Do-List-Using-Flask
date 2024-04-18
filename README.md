@@ -37,15 +37,12 @@ $ python app.py
 ---
 
 ## Features 📋
-⚡️ SignUp and SignIn option.\
-⚡️ Play song, view detailed information of song.\
-⚡️ Search songs.\
-⚡️ Filter songs based on language and singer.\
-⚡️ Create new playlist.\
-⚡️ Add/Remove songs to/from playlist.\
-⚡️ Add/Remove songs to/from favourites.\
-⚡️ Scroll through recently played/viewed songs.\
-⚡️ Explore songs through your personalized playlist and favourites.
+⚡️ Login and Register Option.\
+⚡️ Profile Edit.\
+⚡️ Dashboard, ToDo Task.\
+⚡️ View ToDo.\
+⚡️ ToDo History.\
+⚡️ Logout.\
 
 ---
 

@@ -1,13 +1,13 @@
 # To-Do-List-Using-Flask
 
 #### Login Page
-<img src="Webpage Images/Login.png" width="900">
+<img src="Webpage Image/Login.png" width="900">
 
-#### Detail Page
-<img src="website_images/Details.png" width="900">
+#### Register Page
+<img src="Webpage Image/Register.png" width="900">
 
 #### All Songs
-<img src="website_images/All Song.png" width="900">
+<img src="Webpage Image/Dashboard.png" width="900">
 
 ----
 
